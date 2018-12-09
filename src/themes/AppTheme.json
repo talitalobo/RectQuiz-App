@@ -1,0 +1,13 @@
+{
+    "color" : "#32a8cfff",
+    "textColor": "#2d4952",
+    "buttonTextColor": "#f6ffffff",
+    "backgroundColor": "#0e985f",
+    "tabColor": "#2d4952",
+    "tabTextColor": "#eee",
+    "tintColor": "#0d574b",
+    "barColor": "#0d574b",
+    "disableColor": "#aaaaaa",
+    "iconActiveColor": "#9fffb9",
+    "iconDisableColor": "#5b8e65"
+}

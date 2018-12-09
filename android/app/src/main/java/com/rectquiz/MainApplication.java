@@ -1,4 +1,4 @@
-package com.demoapp;
+package com.rectquiz;
 
 import android.app.Application;
 

@@ -1,4 +1,4 @@
-package com.demoapp; // make sure this is your package name
+package com.rectquiz; // make sure this is your package name
 
 import android.content.Intent;
 import android.os.Bundle;

@@ -1,4 +1,4 @@
-package com.demoapp;
+package com.rectquiz;
 
 import com.facebook.react.ReactActivity;
 import org.devio.rn.splashscreen.SplashScreen; // import this
@@ -17,6 +17,6 @@ public class MainActivity extends ReactActivity {
      */
     @Override
     protected String getMainComponentName() {
-        return "DemoApp";
+        return "RectQuiz";
     }
 }
