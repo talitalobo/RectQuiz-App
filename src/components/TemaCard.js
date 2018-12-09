@@ -31,7 +31,7 @@ export default class TemaCard extends Component/*<Props>*/ {
     componentDidMount() {
       // do stuff while splash screen is shown
         // After having done stuff (such as async tasks) hide the splash screen
-        console.log('user');
+        //console.log(this.props.data.niveis.length);
     }
 
     _renderOpen = () => {
@@ -39,6 +39,7 @@ export default class TemaCard extends Component/*<Props>*/ {
         return(
           <View style={styles.open}>
             <TouchableHighlight
+              onPress={() => this.props.callback(this.props.data.niveis[2])}
               style= {{
                   ...styles.button,
                   backgroundColor: '#ad3335'
@@ -47,6 +48,7 @@ export default class TemaCard extends Component/*<Props>*/ {
               <Text style= {styles.buttonText}>DIFÍCIL</Text>
             </TouchableHighlight>
             <TouchableHighlight
+              onPress={() => this.props.callback(this.props.data.niveis[1])}
               style= {{
                 ...styles.button,
                   backgroundColor: '#c4b73f'
@@ -55,6 +57,7 @@ export default class TemaCard extends Component/*<Props>*/ {
               <Text style= {styles.buttonText}>MÉDIO</Text>
             </TouchableHighlight>
             <TouchableHighlight
+              onPress={() => this.props.callback(this.props.data.niveis[0])}
               style= {{
                 ...styles.button,
                   backgroundColor: '#0b6e45'

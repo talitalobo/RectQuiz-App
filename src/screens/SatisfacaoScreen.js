@@ -13,7 +13,7 @@ export default class SatisfacaoScreen extends Component/*<Props>*/ {
   
     render() {
       return (
-        <Quiz/>
+        <View style={styles.container}/>
       );
     }
   }

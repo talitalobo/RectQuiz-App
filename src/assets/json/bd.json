@@ -1,0 +1,505 @@
+{
+    "temas": [
+        {
+            "titulo":"Grande Corrupção",
+            "descricao":"Essencialmente, a corrupção tem a ver com ambiente de credibilidade das normas do Estado. O cientista sueco Bo Rothstein fala sobre a teoria da armadilha social, onde um sujeito que, muitas vezes, é honesto acaba sendo levado a ser omisso ou se envolver com irregularidades por conta da estrutura da sociedade e do seu descrédito.",
+            "porcentagem": "0",
+            "concluido": "false", 
+            "niveis":[
+                {
+                    "titulo":"Fácil",
+                    "descricao": "Nível Iniciante no Combate à Corrupção Sindrômica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "O suborno e a fraude em licitações públicas são característicos de que tipo de corrupção?",
+                            "a": "Sindrômica",
+                            "b": "Endêmica",
+                            "c": "Sistêmica",
+                            "d": "Eleitoral",
+                            "resposta": "Sindrômica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O superfaturamento de obras por meio de aditivos, é um tipo de corrupção:",
+                            "a": "Endêmica",
+                            "b": "Eleitoral",
+                            "c": "Sindrômica",
+                            "d": "Sistêmica",
+                            "resposta": "Sindrômica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Os casos em que são ofertados alimentos em decomposição que para a merenda de alunos em escolas públicas, pode ser visto como corrupção:",
+                            "a": "Eleitoral",
+                            "b": "Sindrômica",
+                            "c": "Sistêmica",
+                            "d": "Endêmica",
+                            "resposta": "Sindrômica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O desperdício de dinheiro público em obras desnecessárias ou mal planejadas. É um indício de corrupção:",
+                            "a": "Ativa",
+                            "b": "Passiva",
+                            "c": "Endêmica",
+                            "d": "Sindrômica",
+                            "resposta": "Sindrômica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Comportamento implantado no sistema burocrático estatal de criar dificuldades para vender facilidades. É característica de:",
+                            "a": "Corrupção Endêmica",
+                            "b": "Corrupção Ativa",
+                            "c": "Corrupção Sindrômica",
+                            "d": "Corrupção Passiva",
+                            "resposta": "Corrupção Sindrômica",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Médio",
+                    "descricao": "Nível Médio no Combate à Corrupção Sindrômica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "Crime cometido por funcionário público quando, indevidamente, este retarda ou deixa de praticar ato de ofício, ou praticá-lo contra disposição legal expressa, visando satisfazer interesse pessoal.",
+                            "a": "Prevaricação",
+                            "b": "Advocacia Administrativa",
+                            "c": "Tráfico de Influência",
+                            "d": "Violação do sigilo funcional",
+                            "resposta": "Prevaricação",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Solicitar, exigir, cobrar ou obter, para si ou para outrem, vantagem ou promessa de vantagem, a pretexto de influir em ato praticado por funcionário público no exercício da função. Descreve o crime de corrupção:",
+                            "a": "Violação do sigilo funcional",
+                            "b": "Tráfico de Influência",
+                            "c": "Prevaricação",
+                            "d": "Advocacia Administrativa",
+                            "resposta": "Tráfico de Influência",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "É um crime subsidiário praticado por funcionário público, que revela fato que deveria permanecer em sigilo, em razão do cargo, como por exemplo, o funcionário que revela senha funcional, ou que divulga onde se encontram as armas num quartel ou o lugar onde os auditores atuarão. Ocorre mesmo que o servidor se encontre fora de função (de férias, licença, etc).",
+                            "a": "Prevaricação",
+                            "b": "Advocacia Administrativa",
+                            "c": "Violação do sigilo funcional",
+                            "d": "Tráfico de Influência",
+                            "resposta": "Violação do sigilo funcional",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Consiste em patrocinar, direta ou indiretamente, interesse privado perante a administração pública, valendo-se da qualidade de funcionário. Descreve o crime de corrupção:",
+                            "a": "Violação do sigilo funcional",
+                            "b": "Tráfico de Influência",
+                            "c": "Prevaricação",
+                            "d": "Advocacia Administrativa",
+                            "resposta": "Advocacia Administrativa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "NÃO haverá crime se o agente, por conta de contrato decorrente de licitação instaurada para aquisição ou venda de bens ou mercadorias,",
+                            "a": "alterar substância, qualidade ou quantidade de mercadoria fornecida",
+                            "b": "entregar mercadoria por outra",
+                            "c": "tornar justamente mais onerosa a proposta ou a execução do contrato",
+                            "d": "elevar arbitrariamente os preços",
+                            "resposta": "tornar justamente mais onerosa a proposta ou a execução do contrato",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Difícil",
+                    "descricao": "Nível Avançado no Combate à Corrupção Sindrômica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "O tráfico de influência é previsto no artigo 332 do código penal. Prevê pena de: ",
+                            "a": "Reclusão, de 2 a 5 anos, e multa",
+                            "b": "Multa",
+                            "c": "Reclusão de até 01(um) ano",
+                            "d": "Multa e reclusão de até 01(um) ano",
+                            "resposta": "Reclusão, de 2 a 5 anos, e multa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O crime de Violação do sigilo funcional está previsto no artigo 325 do Código Penal Brasileiro. Prevê pena de:",
+                            "a": "Reclusão, de até 2(dois) anos",
+                            "b": "Detenção, de 6 meses a 2 anos, ou multa, se o fato não constitui crime mais grave",
+                            "c": "Multa e reclusão, de até 02(dois) anos",
+                            "d": "Multa",
+                            "resposta": "Detenção, de 6 meses a 2 anos, ou multa, se o fato não constitui crime mais grave",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Paulo ofereceu R$ 300,00 a um Oficial de Justiça para retardar a sua citação. O Oficial de Justiça aceitou a oferta, mas achou o valor oferecido muito baixo, tendo Paulo ficado de estudar eventual majoração. Nesse caso, o Oficial de Justiça cometeu crime de:",
+                            "a": "Corrupção passiva",
+                            "b": "Corrupção ativa",
+                            "c": "Prevaricação",
+                            "d": "Concussão",
+                            "resposta": "Corrupção passiva",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O crime de corrupção eleitoral está previsto no: ",
+                            "a": "Código Eleitoral",
+                            "b": "Livro Eleitoral",
+                            "c": "Camâra Eleitoral",
+                            "d": "Tribunal Superior Eleitoral",
+                            "resposta": "Código Eleitoral",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Uma empresa que ganhou uma licitação e quando a executa falsifica documentos para comprovar que obras que não foram feitas, estão feitas, está cometendo o crime de:",
+                            "a": "Advocacia administrativa",
+                            "b": "Prevaricação",
+                            "c": "Fraude a licitação",
+                            "d": "Tráfico de influência",
+                            "resposta": "Fraude a licitação",
+                            "concluido": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo":"Pequena Corrupção",
+            "descricao":"São “pequenos” desvios - em ações corriqueiras - que influenciam diretamente na conjuntura econômica e política do Brasil. Quando se permite que as pequenas infrações aconteçam, cria-se espaço e alicerces para tornar a sociedade mais propícia à corrupção.",
+            "porcentagem": "0",
+            "concluido": "false", 
+            "niveis":[
+                {
+                    "titulo":"Fácil",
+                    "descricao": "Nível Iniciante no Combate à Corrupção Endêmica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "O estudante que imprime trabalhos acadêmicos em seu local de estágio no setor público, está praticando:",
+                            "a": "Corrupção sistêmica",
+                            "b": "Corrupção endêmica",
+                            "c": "Corrupção sindrômica",
+                            "d": "Corrupção ativa",
+                            "resposta": "Corrupção endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "É exemplo de corrupção endêmica:",
+                            "a": "Fraudar o Imposto de Renda",
+                            "b": "Oferecer vantagem para obter serviço inerente a seu cargo público",
+                            "c": "Exigir pagamento para prestar serviço inerente a seu cargo público",
+                            "d": "Receber ou solicitar vantagem para realizar serviço inerente a seu cargo público",
+                            "resposta": "Fraudar o Imposto de Renda",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O funcionário que pede nota fiscal acima do valor da refeição, está cometendo crime de corrupção:",
+                            "a": "Sistêmica",
+                            "b": "Endêmica",
+                            "c": "Sindrômica",
+                            "d": "Passiva",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Pedir a um amigo funcionário público para dar prioridade a seu processo, diante dos processos que estão aguardando solução, em nome da amizade. É um tipo de corrupção:",
+                            "a": "Endêmica",
+                            "b": "Sistêmica",
+                            "c": "Sindrômica",
+                            "d": "Advocacia Administrativa",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "É exemplo de corrupção endêmica:",
+                            "a": "Entrar na fila de prioridades no banco, sem atender aos quesitos necessários de prioridade.",
+                            "b": "Oferecer informação sigilosa em troca de vantagem financeira.",
+                            "c": "Exigir vantagem em troca de serviço inerente a cargo público.",
+                            "d": "Receber ou solicitar vantagem em troca de serviço inerente a cargo público.",
+                            "resposta": "Entrar na fila de prioridades no banco, sem atender aos quesitos necessários de prioridade.",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Médio",
+                    "descricao": "Nível Médio no Combate à Corrupção Endêmica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "Falsificar a carteirinha estudantil. É um tipo de corrupção:",
+                            "a": "Sistêmica",
+                            "b": "Endêmica",
+                            "c": "Sindrômica",
+                            "d": "Concussão",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O “jeitinho brasileiro”, que legitima toda uma cultura para tirar proveito pessoal de determinas situações. É característica de que tipo de corrupção:",
+                            "a": "Endêmica",
+                            "b": "Sistêmica",
+                            "c": "Corrupção ativa de transação comercial internacional",
+                            "d": "Corrupção ativa",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "João estava na fila da Lotérica aguardando atendimento, quando avistou chegar seu amigo Gabriel. Rapidamente, João o chamou e o deixou entrar na sua frente na fila. João praticou crime de corrupção:",
+                            "a": "Sindrômica",
+                            "b": "Endêmica",
+                            "c": "Sistêmica",
+                            "d": "Concussão",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Amon trabalha no atendimento ao público em uma agência bancária, ao avistar seu vizinho entrando no banco. Amon o chama, desrespeitando a as pessoas que estão aguardando atendimento, pergunta qual serviço seu amigo está buscando e lhe dá uma senha de prioridade. O tipo  de corrupção praticado por Amon:",
+                            "a": "Passiva",
+                            "b": "Ativa",
+                            "c": "Endêmica",
+                            "d": "Sindrômica",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Corrupção endêmica pode ser descrita como:",
+                            "a": "“pequenos” desvios - em ações corriqueiras, como furar uma fila ou imprimir um documento pessoal no trabalho",
+                            "b": "Funcionário público que se apropria ou desvia bens a que tem acesso, em razão de seu cargo.",
+                            "c": "ato de oferecer, vantagem, qualquer tipo de benefício ou satisfação de vontade, que venha a afetar a moralidade da Administração Pública.",
+                            "d": "ato de exigir para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida.",
+                            "resposta": "“pequenos” desvios - em ações corriqueiras, como furar uma fila ou imprimir um documento pessoal no trabalho",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Difícil",
+                    "descricao": "Nível Avançado no Combate à Corrupção Endêmica.",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "Acomodar-se diante de pequenas infrações cotidianas, cria o espaço e alicerces para tornar a sociedade mais propícia à corrupção. A este fato, dá-se o nome de corrupção:",
+                            "a": "Endêmica",
+                            "b": "Sindrômica",
+                            "c": "Sistêmica",
+                            "d": "Ativa",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "João tem 10(dez) anos, está em uma grande fila do cinema com sua mãe. Ela percebe a chegada de um amigo no fim da fila, o chama e o deixa entrar em sua frente na fila. A mãe de João acabou de ensinar-lhe a praticar o crime de corrupção:",
+                            "a": "Sistêmica",
+                            "b": "Endêmica",
+                            "c": "Eleitoral",
+                            "d": "Sindrômica",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Regina foi a padaria escolheu seus pães, dirigiu-se ao caixa, sua compra foi no valor de R$ 3,00, ela deu ao operador de caixa uma nota de R$ 10,00 reais. O operador lhe deu o troco correspondente a uma nota de R$ 50,00 reais. Regina pegou o troco, constatou o erro do operador de caixa, mas não lhe devolveu o dinheiro que não lhe pertencia. O ato de Regina é inerente a corrupção:",
+                            "a": "Endêmica",
+                            "b": "Social",
+                            "c": "Ativa",
+                            "d": "Caixa 2",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Argério falsificou sua  carteirinha de estudante. Ele praticou crime de corrupção:",
+                            "a": "Escolar",
+                            "b": "Social",
+                            "c": "Endêmica",
+                            "d": "Ativa",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Os “pequenos” desvios - em ações corriqueiras, como furar uma fila ou imprimir um documento pessoal no trabalho. São característicos do crime de corrupção: ",
+                            "a": "Sindrômica",
+                            "b": "Endêmica",
+                            "c": "Filial",
+                            "d": "Social",
+                            "resposta": "Endêmica",
+                            "concluido": "false"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "titulo":"Corrupção",
+            "descricao":"É a corrupção, que é principalmente devido às fraquezas de uma organização ou processo. Pode ser contrastada com funcionários ou agentes individuais que atuam de forma corrupta dentro do sistema.",
+            "porcentagem": "0",
+            "concluido": "false", 
+            "niveis":[
+                {
+                    "titulo":"Fácil",
+                    "descricao": "Nível Iniciante no Combate à Corrupção Sistêmica",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "Oferecer vantagem a funcionário público é uma forma de corrupção:",
+                            "a": "Passiva",
+                            "b": "Ativa",
+                            "c": "Peculato",
+                            "d": "Eleitoral",
+                            "resposta": "Ativa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "A corrupção ativa só se caracteriza quando a vantagem é oferecida a:",
+                            "a": "A funcionários dos setores privado e público",
+                            "b": "A qualquer pessoa",
+                            "c": "Funcionário público",
+                            "d": "Funcionário do setor privado",
+                            "resposta": "Funcionário público",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Se o funcionário exige tributo ou contribuição social que sabe ou deveria saber indevido, ou, quando devido, emprega na cobrança meio vexatório ou gravoso, que a lei não autoriza, desviando-o, em proveito próprio ou de outrem, pratica o delito de:",
+                            "a": "Concussão",
+                            "b": "Corrupção ativa",
+                            "c": "Corrupção passiva",
+                            "d": "Eleitoral",
+                            "resposta": "Concussão",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O funcionário público que solicita ou recebe vantagem de qualquer espécie para fazer seu trabalho, está cometendo crime de corrupção",
+                            "a": "Ativa",
+                            "b": "Peculato",
+                            "c": "Passiva",
+                            "d": "Prevaricação",
+                            "resposta": "Passiva",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "São características da corrupção passiva:",
+                            "a": "Omissão de ato; Agente público; e receber ou solicitar vantagem",
+                            "b": "Omissão de ato; Agentes privados; e receber vantagem em troca de informações privilegiadas.",
+                            "c": "Omissão de ato; Agentes públicos; e oferta de vantagem.",
+                            "d": "Omissão de ato; Agentes privados; e oferta de vantagem.",
+                            "resposta": "Omissão de ato; Agente público; e receber ou solicitar vantagem",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Médio",
+                    "descricao": "Nível Médio no Combate à Corrupção Sistêmica",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "Adelaide ofereceu dinheiro para que o funcionário do INSS  agilizasse seu processo  de aposentadoria, o que caracteriza crime de corrupção:",
+                            "a": "Passiva",
+                            "b": "Prevaricação",
+                            "c": "Eleitoral",
+                            "d": "Ativa",
+                            "resposta": "Ativa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Gabi é dono de uma panificadora. Quando a panificadora de Gabi foi notificada pela Vigilância Sanitária, ele ofereceu propina aos fiscais para que não o notificasse. Gabi cometeu um crime de corrupção:",
+                            "a": "Ativa",
+                            "b": "Passiva",
+                            "c": "Tráfico de Influência",
+                            "d": "Peculato",
+                            "resposta": "Ativa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "É crime de corrupção ativa:",
+                            "a": "Solicitar, receber ou aceitar promessa de vantagem indevida",
+                            "b": "Servidor público aceitar dinheiro para serviço de sua competência.",
+                            "c": "Gastar seu dinheiro com roupas",
+                            "d": "Pagar servidor público visando vantagem indevida em algum serviço.",
+                            "resposta": "Pagar servidor público visando vantagem indevida em algum serviço.",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Gabriel é policial militar. Realiza ronda noturna com sua equipe, juntos recebem dos lojistas de uma rua comercial uma taxa mensal para fazerem sua segurança. Gabriel e sua equipe,  cometem  crime de corrupção:",
+                            "a": "Ativa",
+                            "b": "Passiva",
+                            "c": "Tráfico de Influência",
+                            "d": "Peculato",
+                            "resposta": "Passiva",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Adelaide, é funcionária pública do INSS a 03(três) anos, solicita quantias em dinheiro de aposentados para adiantar as datas dos agendamentos  para atendimentos no INSS, o que caracteriza crime de corrupção:",
+                            "a": "Passiva",
+                            "b": "Prevaricação",
+                            "c": "Eleitoral",
+                            "d": "Ativa",
+                            "resposta": "Passiva",
+                            "concluido": "false"
+                        }
+                    ]
+                },
+                {
+                    "titulo":"Difícil",
+                    "descricao": "Nível Avançado no Combate à Corrupção Sistêmica",
+                    "porcentagem": "0",
+                    "concluido": "false",
+                    "quiz": [
+                        {
+                            "pergunta": "O crime de Corrupção Ativa para ser consumado basta que o particular tenha o dolo, ou seja, que tenha a intenção de oferecer a vantagem indevida, independente do crime ter se consumado ou não. A quem?",
+                            "a": "Funcionário público",
+                            "b": "Funcionário  de empresa privada",
+                            "c": "A funcionários dos setores privado e público",
+                            "d": "A qualquer pessoa",
+                            "resposta": "Funcionário público",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "Art. 333. Oferecer ou prometer vantagem indevida a funcionário público, para determiná-lo a praticar, omitir ou retardar ato de ofício.Este artigo da Código Penal refere-se a:",
+                            "a": "Corrupção Passiva",
+                            "b": "Corrupção Ativa",
+                            "c": "Peculato",
+                            "d": "Condescendência Criminosa",
+                            "resposta": "Corrupção Ativa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "As 3 características principais dentro da corrupção ativa são:",
+                            "a": "Solicitar ou receber vantagem; Agentes privados; e  revelar fato.",
+                            "b": "Omissão de ato; Agentes privados; e recebimento de vantagem.",
+                            "c": "Omissão de ato; Agentes públicos; e oferta de vantagem",
+                            "d": "Revelar fato; Solicitar vantagem; e Agentes públicos.",
+                            "resposta": "Omissão de ato; Agentes públicos; e oferta de vantagem",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O crime de corrupção passiva, segundo o artigo art. 317, do código penal brasileiro ocorre quando funcionário público: Solicitar ou receber, para si ou para outrem, direta ou indiretamente, ainda que fora da função ou antes de assumi-la, mas em razão dela, vantagem indevida, ou aceitar promessa de tal vantagem. Sob pena:",
+                            "a": "reclusão, de 2 (dois) a 12 (doze) anos, e multa",
+                            "b": "multa",
+                            "c": "01(um) ano de reclusão",
+                            "d": "reclusão, de até 01(um) ano",
+                            "resposta": "reclusão, de 2 (dois) a 12 (doze) anos, e multa",
+                            "concluido": "false"
+                        },
+                        {
+                            "pergunta": "O crime de corrupção passiva está previsto em que artigo do código penal brasileiro?",
+                            "a": "Art. 333",
+                            "b": "Art. 317",
+                            "c": "Art. 313",
+                            "d": "Art. 321",
+                            "resposta": "Art. 317",
+                            "concluido": "false"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
